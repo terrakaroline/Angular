@@ -11,6 +11,6 @@ export class SegundoComponenteComponent {
   urlImagem = "/assets/o-que-e-paisagem.jpg";
 
   mostrarDataNascimento(){
-    alert(`A data de nascimento de João é: ${this.dataNascimento}`);
+    alert(`A data em que esta fotografia foi tirada foi: ${this.dataNascimento}`);
   }
 }
